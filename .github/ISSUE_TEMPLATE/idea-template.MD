@@ -1,6 +1,6 @@
 ---
 name: Submit Idea
-about: Use this template for submitting idea for the BoB Innovate hackathon
+about: Use this template for submitting idea for the BoB hackathon
 title: "Idea Submission"
 labels: idea,submit-idea
 ---
