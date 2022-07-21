@@ -1,6 +1,6 @@
 ---
 name: Submit Source Code
-about: Use this template for submitting source code for the BoB Innovate hackathon
+about: Use this template for submitting source code for the BoB hackathon
 title: "Source Code Submission"
 labels: source,submit-source
 ---
